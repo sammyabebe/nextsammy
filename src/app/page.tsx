@@ -5,6 +5,7 @@ import { HeroParallaxDemo} from "./test4";
 import { FlipWordsDemo} from "./test5";
 import { GoogleGeminiEffectDemo} from "./test6";
 import { SparklesPreview} from "./test7";
+import { ThreeDCardDemo} from "./test8";
 export default function Home() {
   return (
     <main>
@@ -15,6 +16,7 @@ export default function Home() {
     <SignupFormDemo></SignupFormDemo>
     <FlipWordsDemo></FlipWordsDemo>
     <GoogleGeminiEffectDemo></GoogleGeminiEffectDemo>
+    <ThreeDCardDemo></ThreeDCardDemo>
     </main>
   );
 }
